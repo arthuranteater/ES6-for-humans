@@ -256,7 +256,6 @@ console.log(car);
 //     value: 40000,
 //     makeKia: true,
 //     depreciate: function()
-
 // }
 ```
 
